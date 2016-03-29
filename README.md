@@ -3,7 +3,6 @@
 Docker is an open source tool that allows pieces of software to be installed in virtualized “containers.” This container holds all of the dependencies for the software, including operating system-level binaries. This container, specifically, houses all of the software and dependencies needed to run FeatureREDUCE from the Riley/Bussemaker labs. To use this container and the FeatureREDUCE software it houses, follow the drections below. The docker software for Mac and PC can be downloaded [here](https://www.docker.com/products/docker-toolbox). For linux distributions, follow the directions on the Docker website for your specific distribution. If you are using Ubuntu 14.04, I wrote a shell script to [install Docker automatically](https://github.com/FordyceLab/cloud_scripts).
 
 ## Setting up the Docker daemon
----
 
 ### Mac
 
